@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+    background-color: beige;
+}
+
+.bg-image {
+    border-radius: 10px;
+    padding: 200px;
+    background-size: 1800px 1000px;
+    background-image: url("https://images6.alphacoders.com/128/1289150.jpg");
+    background-repeat: no-repeat;
+}
+#bg-text {
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 5px 2px #383838;
+    font-size: 5rem;
+    text-align: left;
+    color: rgb(255, 6, 14);
+}
+
+.tables{
+    border-radius: 10px;
+    background-color: rgb(215, 215, 176);
+    display: block;
+    margin: auto;  
+    width: auto;  
+    padding: 20px;
+    text-align: center;
+}
+.serveerimine {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: auto;
+}
+
+.besee {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: auto;
+}
+
+.valmistamine-header {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+th {
+    color: rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(10, 10, 10);
+}
+
+td {
+    color: red;
+}
+
+.valmistamine {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 20px;    
+    display: block;
+    width: 1000px;
+}
+
+.besee-header {
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.serveerimine-header {
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.footer-hr {
+    width: 300px;
+}
+
+.footer {
+    text-align: center;
+}
